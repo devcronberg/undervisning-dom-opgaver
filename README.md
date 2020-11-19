@@ -5,3 +5,4 @@ Dette repository indeholder forskellige opgaver relateret til programmering mod 
 ## Opgaver
 
 - [Hello World](001HelloWorld/opgave/readme.md) - klik på en knap for at ændre en tekst
+- [Opret en liste](002Liste/opgave/readme.md) - klik på en knap for at oprette en liste af data
